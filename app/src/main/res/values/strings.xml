@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">user interface challenge</string>
+    <string name="this_is_our_license_agreement_users_of_this_app_are_allowed_to_access_the_source_code_build_upon_and_distribute_it_to_others">This is our lisence agreement users of this app are allowed to access the source code build upon and distribute it to others</string>
+    <array name="countries">
+        <item>Germany</item>
+        <item>France</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>Uk</item>
+        <item>Norway</item>
+    </array>
+</resources>
